@@ -29,6 +29,7 @@
   <ItemGroup>
     <ClCompile Include="..\vendor\googletest\src\gtest_main.cc" />
     <ClCompile Include="defer_test.cpp" />
+    <ClCompile Include="storage_test.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
